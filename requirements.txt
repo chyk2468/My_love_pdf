@@ -1,0 +1,12 @@
+streamlit
+pymupdf
+PyPDF2
+tabula-py
+pandas
+openpyxl
+python-docx
+pdfplumber
+pytesseract
+pdf2image
+camelot-py[cv]
+opencv-python
